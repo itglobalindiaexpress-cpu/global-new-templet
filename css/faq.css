@@ -4,6 +4,13 @@
   font-family: 'Inter', sans-serif;
 }
 
+/* Flag css */
+.flags-cs{
+  height: 85px;
+  width: 150px;
+  border-radius: 5px;
+}
+
 /* Header fade-in */
 .faq-header {
   text-align: center;
